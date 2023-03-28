@@ -49,3 +49,10 @@ body {
   border: 3px solid #000000;
   color: #fff;
 }
+.letter-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6em;
+}
